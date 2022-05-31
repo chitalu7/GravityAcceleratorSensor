@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GravityAcceleratorSensor</string>
+    <string name="gravity_readings">Gravity Readings</string>
+    <string name="x_value">X-value</string>
+    <string name="z_value">Z-value</string>
+    <string name="y_value">Y-value</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
